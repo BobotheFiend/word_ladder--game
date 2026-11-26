@@ -1,0 +1,3002 @@
+[
+  {
+    "gotten_word": "BUD",
+    "target_word": "DIN",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "BUT",
+    "target_word": "TAR",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "CAB",
+    "target_word": "BUT",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "CAB",
+    "target_word": "WIT",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "COW",
+    "target_word": "RAT",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "CUT",
+    "target_word": "PEW",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "DAY",
+    "target_word": "DIG",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "DIN",
+    "target_word": "WAS",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "DIP",
+    "target_word": "PIT",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "FIR",
+    "target_word": "SAC",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "FOE",
+    "target_word": "RED",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "FUN",
+    "target_word": "EAT",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "GIN",
+    "target_word": "BUY",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "HIP",
+    "target_word": "RED",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "HUT",
+    "target_word": "RIM",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "JAY",
+    "target_word": "BEG",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "JOB",
+    "target_word": "PET",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "KIT",
+    "target_word": "PAD",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "MON",
+    "target_word": "HIP",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "NON",
+    "target_word": "BET",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "PEW",
+    "target_word": "PUB",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "PIN",
+    "target_word": "DAM",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "PIN",
+    "target_word": "MOP",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "PIT",
+    "target_word": "RAN",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "ROI",
+    "target_word": "FAT",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "SAC",
+    "target_word": "JAM",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "SUN",
+    "target_word": "ZIP",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "TAX",
+    "target_word": "BIG",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "VAN",
+    "target_word": "YOU",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "VON",
+    "target_word": "CUP",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "VOW",
+    "target_word": "SIN",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "WAS",
+    "target_word": "FIX",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "WAX",
+    "target_word": "TRY",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "WIG",
+    "target_word": "GAS",
+    "word_length": 3,
+    "steps": 3
+  },
+  {
+    "gotten_word": "AID",
+    "target_word": "YES",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "BAG",
+    "target_word": "LIP",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "BOX",
+    "target_word": "RUN",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "FAR",
+    "target_word": "DIP",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "FIT",
+    "target_word": "BOW",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "FOR",
+    "target_word": "RAY",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "HEN",
+    "target_word": "CRY",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "HUE",
+    "target_word": "PIG",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "JOY",
+    "target_word": "WIG",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "LAW",
+    "target_word": "SUN",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "LIT",
+    "target_word": "DAM",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "MAP",
+    "target_word": "LES",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "MAP",
+    "target_word": "ROD",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "MEN",
+    "target_word": "LAW",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "MOB",
+    "target_word": "DIG",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "NOW",
+    "target_word": "NAP",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "OLD",
+    "target_word": "ERA",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "OUT",
+    "target_word": "TIP",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "PAN",
+    "target_word": "SUB",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "PEG",
+    "target_word": "HOW",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "PIN",
+    "target_word": "VOW",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "POP",
+    "target_word": "LAW",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "RED",
+    "target_word": "JAW",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "RIM",
+    "target_word": "WAX",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "RUB",
+    "target_word": "BED",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "RUN",
+    "target_word": "FIT",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "SAD",
+    "target_word": "NON",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "SHE",
+    "target_word": "LED",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "SON",
+    "target_word": "DAM",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "SUB",
+    "target_word": "WAR",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "TAR",
+    "target_word": "ROD",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "VIA",
+    "target_word": "NON",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "VOW",
+    "target_word": "HAM",
+    "word_length": 3,
+    "steps": 4
+  },
+  {
+    "gotten_word": "AIM",
+    "target_word": "THY",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "AND",
+    "target_word": "SOW",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "ANY",
+    "target_word": "MAN",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "ARE",
+    "target_word": "PAD",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "ARM",
+    "target_word": "JAR",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "AYE",
+    "target_word": "MOB",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "AYE",
+    "target_word": "BAN",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "CAB",
+    "target_word": "TWO",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "EYE",
+    "target_word": "EGG",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "GAP",
+    "target_word": "AIM",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "GET",
+    "target_word": "FRO",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "HAD",
+    "target_word": "UNE",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "HEM",
+    "target_word": "INK",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "HID",
+    "target_word": "INN",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "JOB",
+    "target_word": "DES",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "LED",
+    "target_word": "EVE",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "LOT",
+    "target_word": "SLY",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "LUI",
+    "target_word": "FIT",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "MAP",
+    "target_word": "ERA",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "NAP",
+    "target_word": "EYE",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "OUR",
+    "target_word": "THY",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "QUI",
+    "target_word": "TEN",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "REP",
+    "target_word": "QUE",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "SKY",
+    "target_word": "NUN",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "SON",
+    "target_word": "APE",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "THY",
+    "target_word": "GIG",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "TOO",
+    "target_word": "HAS",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "USE",
+    "target_word": "AGE",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "VAN",
+    "target_word": "SEX",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "VEX",
+    "target_word": "HAM",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "YOU",
+    "target_word": "BOX",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "YOU",
+    "target_word": "SAC",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "ZIP",
+    "target_word": "FRO",
+    "word_length": 3,
+    "steps": 5
+  },
+  {
+    "gotten_word": "BAGS",
+    "target_word": "MERE",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "BALD",
+    "target_word": "WARS",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "BALL",
+    "target_word": "COIN",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "BEAT",
+    "target_word": "POSE",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "COLD",
+    "target_word": "BOOK",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "CORD",
+    "target_word": "MAPS",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "CORE",
+    "target_word": "LIKE",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "DAYS",
+    "target_word": "DATA",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "EARS",
+    "target_word": "MODE",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "EARS",
+    "target_word": "BATH",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "HALF",
+    "target_word": "GAGE",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "HATS",
+    "target_word": "WIRE",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "HEEL",
+    "target_word": "HAND",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "HUTS",
+    "target_word": "ROWS",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "JOIN",
+    "target_word": "PORK",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "JUST",
+    "target_word": "DOVE",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "LAST",
+    "target_word": "MEAT",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "LOPE",
+    "target_word": "TENS",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "LOSE",
+    "target_word": "TOOK",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "MICE",
+    "target_word": "CAKE",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "MOOD",
+    "target_word": "ROOM",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "PILE",
+    "target_word": "JAWS",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "PINT",
+    "target_word": "HATE",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "RANG",
+    "target_word": "MALE",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "RIFT",
+    "target_word": "WILL",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "SOLD",
+    "target_word": "WOOL",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "SOLE",
+    "target_word": "POET",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "SOWN",
+    "target_word": "PAIN",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "TONS",
+    "target_word": "WINE",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "TUNE",
+    "target_word": "BOYS",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "WEAK",
+    "target_word": "LENT",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "WISP",
+    "target_word": "GASP",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "YOKE",
+    "target_word": "CANE",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "ZONE",
+    "target_word": "WANT",
+    "word_length": 4,
+    "steps": 4
+  },
+  {
+    "gotten_word": "BARE",
+    "target_word": "PITS",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "BEND",
+    "target_word": "MAIS",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "BONE",
+    "target_word": "OATS",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "BULL",
+    "target_word": "GOES",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "BURN",
+    "target_word": "TOIL",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "BURR",
+    "target_word": "LANE",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "BURY",
+    "target_word": "BOSS",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "FARE",
+    "target_word": "PONY",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "FEED",
+    "target_word": "HOWE",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "FITS",
+    "target_word": "RASH",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "FLAG",
+    "target_word": "GRIM",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "HILL",
+    "target_word": "FACE",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "HOPE",
+    "target_word": "TOOK",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "HUNG",
+    "target_word": "WEST",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "LASH",
+    "target_word": "MIND",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "LENS",
+    "target_word": "DEBS",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "LUNG",
+    "target_word": "ROSY",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "MARE",
+    "target_word": "WEPT",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "MICE",
+    "target_word": "HOWL",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "MOLE",
+    "target_word": "GOUT",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "PAIN",
+    "target_word": "RASH",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "PAYS",
+    "target_word": "DOES",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "POPE",
+    "target_word": "TOOK",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "ROOK",
+    "target_word": "MUCH",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "ROOT",
+    "target_word": "DUCT",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "SAYS",
+    "target_word": "JAIL",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "SEEM",
+    "target_word": "TIES",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "SINS",
+    "target_word": "MAPS",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "SOIL",
+    "target_word": "BEND",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "TEST",
+    "target_word": "VICE",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "VEIL",
+    "target_word": "JETS",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "VENT",
+    "target_word": "HUSH",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "WATT",
+    "target_word": "PINK",
+    "word_length": 4,
+    "steps": 5
+  },
+  {
+    "gotten_word": "AIMS",
+    "target_word": "BANG",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "BAGS",
+    "target_word": "SOFT",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "BASS",
+    "target_word": "MOOD",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "BEER",
+    "target_word": "RUNS",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "BOLT",
+    "target_word": "GETS",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "BUSY",
+    "target_word": "LAWS",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "CHIN",
+    "target_word": "CALM",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "EAST",
+    "target_word": "VOUS",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "FAST",
+    "target_word": "DIES",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "GEAR",
+    "target_word": "HOWE",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "GOLD",
+    "target_word": "STEM",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "HACK",
+    "target_word": "GUNS",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "HALT",
+    "target_word": "TOUT",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "HATE",
+    "target_word": "DEAL",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "HIRE",
+    "target_word": "RIBS",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "HUNT",
+    "target_word": "MUCH",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "KEEN",
+    "target_word": "GOLD",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "LETS",
+    "target_word": "DAMN",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "LINK",
+    "target_word": "MEAN",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "LIPS",
+    "target_word": "LICE",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "MASK",
+    "target_word": "SOWN",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "MEAL",
+    "target_word": "COOK",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "MEAT",
+    "target_word": "CAPE",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "PEAK",
+    "target_word": "EYED",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "PLAY",
+    "target_word": "WENT",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "REST",
+    "target_word": "TOUR",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "RICE",
+    "target_word": "FURY",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "SITS",
+    "target_word": "EAST",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "SURE",
+    "target_word": "TEST",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "WAIL",
+    "target_word": "NINE",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "WARE",
+    "target_word": "GRAM",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "WERE",
+    "target_word": "LADY",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "ZEAL",
+    "target_word": "SNAP",
+    "word_length": 4,
+    "steps": 6
+  },
+  {
+    "gotten_word": "BALLS",
+    "target_word": "SORES",
+    "word_length": 5,
+    "steps": 4
+  },
+  {
+    "gotten_word": "BASIS",
+    "target_word": "BORED",
+    "word_length": 5,
+    "steps": 4
+  },
+  {
+    "gotten_word": "BIRDS",
+    "target_word": "BEAMS",
+    "word_length": 5,
+    "steps": 4
+  },
+  {
+    "gotten_word": "BLOCK",
+    "target_word": "FRANK",
+    "word_length": 5,
+    "steps": 4
+  },
+  {
+    "gotten_word": "BRING",
+    "target_word": "FRANK",
+    "word_length": 5,
+    "steps": 4
+  },
+  {
+    "gotten_word": "CLASS",
+    "target_word": "CRUST",
+    "word_length": 5,
+    "steps": 4
+  },
+  {
+    "gotten_word": "FAILS",
+    "target_word": "TELLS",
+    "word_length": 5,
+    "steps": 4
+  },
+  {
+    "gotten_word": "FIRED",
+    "target_word": "RAGED",
+    "word_length": 5,
+    "steps": 4
+  },
+  {
+    "gotten_word": "GRIND",
+    "target_word": "BLEND",
+    "word_length": 5,
+    "steps": 4
+  },
+  {
+    "gotten_word": "MALES",
+    "target_word": "LINEN",
+    "word_length": 5,
+    "steps": 4
+  },
+  {
+    "gotten_word": "NOTES",
+    "target_word": "RIDES",
+    "word_length": 5,
+    "steps": 4
+  },
+  {
+    "gotten_word": "PANES",
+    "target_word": "FINER",
+    "word_length": 5,
+    "steps": 4
+  },
+  {
+    "gotten_word": "RACES",
+    "target_word": "DARED",
+    "word_length": 5,
+    "steps": 4
+  },
+  {
+    "gotten_word": "REEDS",
+    "target_word": "BOATS",
+    "word_length": 5,
+    "steps": 4
+  },
+  {
+    "gotten_word": "SHOWS",
+    "target_word": "SHIRT",
+    "word_length": 5,
+    "steps": 4
+  },
+  {
+    "gotten_word": "SLIPS",
+    "target_word": "SHOWN",
+    "word_length": 5,
+    "steps": 4
+  },
+  {
+    "gotten_word": "SNOWY",
+    "target_word": "SWORN",
+    "word_length": 5,
+    "steps": 4
+  },
+  {
+    "gotten_word": "STOKE",
+    "target_word": "SCARF",
+    "word_length": 5,
+    "steps": 4
+  },
+  {
+    "gotten_word": "STONY",
+    "target_word": "STARS",
+    "word_length": 5,
+    "steps": 4
+  },
+  {
+    "gotten_word": "TAILS",
+    "target_word": "BELLS",
+    "word_length": 5,
+    "steps": 4
+  },
+  {
+    "gotten_word": "TRIBE",
+    "target_word": "WHILE",
+    "word_length": 5,
+    "steps": 4
+  },
+  {
+    "gotten_word": "WAGED",
+    "target_word": "HATED",
+    "word_length": 5,
+    "steps": 4
+  },
+  {
+    "gotten_word": "WARTS",
+    "target_word": "EAGER",
+    "word_length": 5,
+    "steps": 4
+  },
+  {
+    "gotten_word": "WHALE",
+    "target_word": "SHONE",
+    "word_length": 5,
+    "steps": 4
+  },
+  {
+    "gotten_word": "WRITE",
+    "target_word": "WHOSE",
+    "word_length": 5,
+    "steps": 4
+  },
+  {
+    "gotten_word": "BLOWS",
+    "target_word": "GRAIN",
+    "word_length": 5,
+    "steps": 5
+  },
+  {
+    "gotten_word": "COATS",
+    "target_word": "READY",
+    "word_length": 5,
+    "steps": 5
+  },
+  {
+    "gotten_word": "CORDS",
+    "target_word": "WAGER",
+    "word_length": 5,
+    "steps": 5
+  },
+  {
+    "gotten_word": "DARES",
+    "target_word": "SINGS",
+    "word_length": 5,
+    "steps": 5
+  },
+  {
+    "gotten_word": "FINES",
+    "target_word": "SEEDS",
+    "word_length": 5,
+    "steps": 5
+  },
+  {
+    "gotten_word": "FINES",
+    "target_word": "HOMES",
+    "word_length": 5,
+    "steps": 5
+  },
+  {
+    "gotten_word": "FORTH",
+    "target_word": "FINES",
+    "word_length": 5,
+    "steps": 5
+  },
+  {
+    "gotten_word": "GAMES",
+    "target_word": "FORMS",
+    "word_length": 5,
+    "steps": 5
+  },
+  {
+    "gotten_word": "GATES",
+    "target_word": "LINED",
+    "word_length": 5,
+    "steps": 5
+  },
+  {
+    "gotten_word": "GULLY",
+    "target_word": "WALLS",
+    "word_length": 5,
+    "steps": 5
+  },
+  {
+    "gotten_word": "HEIRS",
+    "target_word": "DEEDS",
+    "word_length": 5,
+    "steps": 5
+  },
+  {
+    "gotten_word": "HIRED",
+    "target_word": "WALLS",
+    "word_length": 5,
+    "steps": 5
+  },
+  {
+    "gotten_word": "LAKES",
+    "target_word": "HASTE",
+    "word_length": 5,
+    "steps": 5
+  },
+  {
+    "gotten_word": "MINES",
+    "target_word": "TONES",
+    "word_length": 5,
+    "steps": 5
+  },
+  {
+    "gotten_word": "MINOR",
+    "target_word": "RINGS",
+    "word_length": 5,
+    "steps": 5
+  },
+  {
+    "gotten_word": "NAILS",
+    "target_word": "MILES",
+    "word_length": 5,
+    "steps": 5
+  },
+  {
+    "gotten_word": "PENCE",
+    "target_word": "SLAVE",
+    "word_length": 5,
+    "steps": 5
+  },
+  {
+    "gotten_word": "PINTS",
+    "target_word": "PAGES",
+    "word_length": 5,
+    "steps": 5
+  },
+  {
+    "gotten_word": "POLES",
+    "target_word": "LIKES",
+    "word_length": 5,
+    "steps": 5
+  },
+  {
+    "gotten_word": "SALTS",
+    "target_word": "FILLS",
+    "word_length": 5,
+    "steps": 5
+  },
+  {
+    "gotten_word": "SHOVE",
+    "target_word": "SCABS",
+    "word_length": 5,
+    "steps": 5
+  },
+  {
+    "gotten_word": "SMACK",
+    "target_word": "CLOAK",
+    "word_length": 5,
+    "steps": 5
+  },
+  {
+    "gotten_word": "TALKS",
+    "target_word": "WIRED",
+    "word_length": 5,
+    "steps": 5
+  },
+  {
+    "gotten_word": "TELLS",
+    "target_word": "WARTS",
+    "word_length": 5,
+    "steps": 5
+  },
+  {
+    "gotten_word": "WOODS",
+    "target_word": "TALES",
+    "word_length": 5,
+    "steps": 5
+  },
+  {
+    "gotten_word": "BAKER",
+    "target_word": "GIVES",
+    "word_length": 5,
+    "steps": 6
+  },
+  {
+    "gotten_word": "BANDS",
+    "target_word": "BASES",
+    "word_length": 5,
+    "steps": 6
+  },
+  {
+    "gotten_word": "BRAND",
+    "target_word": "FROCK",
+    "word_length": 5,
+    "steps": 6
+  },
+  {
+    "gotten_word": "BRAND",
+    "target_word": "TREAD",
+    "word_length": 5,
+    "steps": 6
+  },
+  {
+    "gotten_word": "COMES",
+    "target_word": "LEVEL",
+    "word_length": 5,
+    "steps": 6
+  },
+  {
+    "gotten_word": "DEEDS",
+    "target_word": "KINGS",
+    "word_length": 5,
+    "steps": 6
+  },
+  {
+    "gotten_word": "FACES",
+    "target_word": "TOKEN",
+    "word_length": 5,
+    "steps": 6
+  },
+  {
+    "gotten_word": "FOLDS",
+    "target_word": "WALLS",
+    "word_length": 5,
+    "steps": 6
+  },
+  {
+    "gotten_word": "FUSED",
+    "target_word": "HATED",
+    "word_length": 5,
+    "steps": 6
+  },
+  {
+    "gotten_word": "MATES",
+    "target_word": "RIDER",
+    "word_length": 5,
+    "steps": 6
+  },
+  {
+    "gotten_word": "MIXED",
+    "target_word": "WATER",
+    "word_length": 5,
+    "steps": 6
+  },
+  {
+    "gotten_word": "PACED",
+    "target_word": "MOVED",
+    "word_length": 5,
+    "steps": 6
+  },
+  {
+    "gotten_word": "PIPES",
+    "target_word": "CARED",
+    "word_length": 5,
+    "steps": 6
+  },
+  {
+    "gotten_word": "POSTS",
+    "target_word": "TAXES",
+    "word_length": 5,
+    "steps": 6
+  },
+  {
+    "gotten_word": "RANKS",
+    "target_word": "GASES",
+    "word_length": 5,
+    "steps": 6
+  },
+  {
+    "gotten_word": "RATES",
+    "target_word": "SANDY",
+    "word_length": 5,
+    "steps": 6
+  },
+  {
+    "gotten_word": "RULER",
+    "target_word": "PARTS",
+    "word_length": 5,
+    "steps": 6
+  },
+  {
+    "gotten_word": "SANDS",
+    "target_word": "GAMES",
+    "word_length": 5,
+    "steps": 6
+  },
+  {
+    "gotten_word": "SWORD",
+    "target_word": "STILL",
+    "word_length": 5,
+    "steps": 6
+  },
+  {
+    "gotten_word": "TAKES",
+    "target_word": "COINS",
+    "word_length": 5,
+    "steps": 6
+  },
+  {
+    "gotten_word": "TAXED",
+    "target_word": "LIVID",
+    "word_length": 5,
+    "steps": 6
+  },
+  {
+    "gotten_word": "TEARS",
+    "target_word": "SHEDS",
+    "word_length": 5,
+    "steps": 6
+  },
+  {
+    "gotten_word": "WARDS",
+    "target_word": "FISTS",
+    "word_length": 5,
+    "steps": 6
+  },
+  {
+    "gotten_word": "WINGS",
+    "target_word": "PACKS",
+    "word_length": 5,
+    "steps": 6
+  },
+  {
+    "gotten_word": "WORKS",
+    "target_word": "RATES",
+    "word_length": 5,
+    "steps": 6
+  },
+  {
+    "gotten_word": "BONDS",
+    "target_word": "JOINS",
+    "word_length": 5,
+    "steps": 7
+  },
+  {
+    "gotten_word": "BOOTS",
+    "target_word": "LINED",
+    "word_length": 5,
+    "steps": 7
+  },
+  {
+    "gotten_word": "DAZED",
+    "target_word": "VOTES",
+    "word_length": 5,
+    "steps": 7
+  },
+  {
+    "gotten_word": "FILMS",
+    "target_word": "HURTS",
+    "word_length": 5,
+    "steps": 7
+  },
+  {
+    "gotten_word": "HOARD",
+    "target_word": "BONES",
+    "word_length": 5,
+    "steps": 7
+  },
+  {
+    "gotten_word": "JOINT",
+    "target_word": "FILLS",
+    "word_length": 5,
+    "steps": 7
+  },
+  {
+    "gotten_word": "LENDS",
+    "target_word": "NEVER",
+    "word_length": 5,
+    "steps": 7
+  },
+  {
+    "gotten_word": "LIVED",
+    "target_word": "DOZED",
+    "word_length": 5,
+    "steps": 7
+  },
+  {
+    "gotten_word": "LIVES",
+    "target_word": "ARMED",
+    "word_length": 5,
+    "steps": 7
+  },
+  {
+    "gotten_word": "LOWER",
+    "target_word": "KINDS",
+    "word_length": 5,
+    "steps": 7
+  },
+  {
+    "gotten_word": "NODES",
+    "target_word": "SIZED",
+    "word_length": 5,
+    "steps": 7
+  },
+  {
+    "gotten_word": "PARTY",
+    "target_word": "HILLS",
+    "word_length": 5,
+    "steps": 7
+  },
+  {
+    "gotten_word": "SHOPS",
+    "target_word": "LOADS",
+    "word_length": 5,
+    "steps": 7
+  },
+  {
+    "gotten_word": "SLICE",
+    "target_word": "SHOOT",
+    "word_length": 5,
+    "steps": 7
+  },
+  {
+    "gotten_word": "STALE",
+    "target_word": "FLASK",
+    "word_length": 5,
+    "steps": 7
+  },
+  {
+    "gotten_word": "SWORE",
+    "target_word": "TRICK",
+    "word_length": 5,
+    "steps": 7
+  },
+  {
+    "gotten_word": "TAXED",
+    "target_word": "BOLTS",
+    "word_length": 5,
+    "steps": 7
+  },
+  {
+    "gotten_word": "TELLS",
+    "target_word": "HANDS",
+    "word_length": 5,
+    "steps": 7
+  },
+  {
+    "gotten_word": "TOKEN",
+    "target_word": "LORDS",
+    "word_length": 5,
+    "steps": 7
+  },
+  {
+    "gotten_word": "TURNS",
+    "target_word": "HANDY",
+    "word_length": 5,
+    "steps": 7
+  },
+  {
+    "gotten_word": "WAGED",
+    "target_word": "MISTY",
+    "word_length": 5,
+    "steps": 7
+  },
+  {
+    "gotten_word": "WAKED",
+    "target_word": "BEADS",
+    "word_length": 5,
+    "steps": 7
+  },
+  {
+    "gotten_word": "WANTS",
+    "target_word": "BEATS",
+    "word_length": 5,
+    "steps": 7
+  },
+  {
+    "gotten_word": "WARTY",
+    "target_word": "GAPED",
+    "word_length": 5,
+    "steps": 7
+  },
+  {
+    "gotten_word": "WHITE",
+    "target_word": "DROVE",
+    "word_length": 5,
+    "steps": 7
+  },
+  {
+    "gotten_word": "BALLET",
+    "target_word": "HAILED",
+    "word_length": 6,
+    "steps": 4
+  },
+  {
+    "gotten_word": "BLAMED",
+    "target_word": "LOADED",
+    "word_length": 6,
+    "steps": 4
+  },
+  {
+    "gotten_word": "BLAZED",
+    "target_word": "FEARED",
+    "word_length": 6,
+    "steps": 4
+  },
+  {
+    "gotten_word": "BULLET",
+    "target_word": "WALKED",
+    "word_length": 6,
+    "steps": 4
+  },
+  {
+    "gotten_word": "CEASED",
+    "target_word": "HELPED",
+    "word_length": 6,
+    "steps": 4
+  },
+  {
+    "gotten_word": "DANCER",
+    "target_word": "HANGED",
+    "word_length": 6,
+    "steps": 4
+  },
+  {
+    "gotten_word": "LASTED",
+    "target_word": "WISHES",
+    "word_length": 6,
+    "steps": 4
+  },
+  {
+    "gotten_word": "LINKED",
+    "target_word": "TICKET",
+    "word_length": 6,
+    "steps": 4
+  },
+  {
+    "gotten_word": "LOCKED",
+    "target_word": "PEAKED",
+    "word_length": 6,
+    "steps": 4
+  },
+  {
+    "gotten_word": "LODGES",
+    "target_word": "LINGER",
+    "word_length": 6,
+    "steps": 4
+  },
+  {
+    "gotten_word": "PEAKED",
+    "target_word": "JACKET",
+    "word_length": 6,
+    "steps": 4
+  },
+  {
+    "gotten_word": "PITTED",
+    "target_word": "WASTED",
+    "word_length": 6,
+    "steps": 4
+  },
+  {
+    "gotten_word": "RENDER",
+    "target_word": "HEAPED",
+    "word_length": 6,
+    "steps": 4
+  },
+  {
+    "gotten_word": "SHADED",
+    "target_word": "SEATED",
+    "word_length": 6,
+    "steps": 4
+  },
+  {
+    "gotten_word": "SHADES",
+    "target_word": "STORED",
+    "word_length": 6,
+    "steps": 4
+  },
+  {
+    "gotten_word": "SHOVEL",
+    "target_word": "STONED",
+    "word_length": 6,
+    "steps": 4
+  },
+  {
+    "gotten_word": "SIGHED",
+    "target_word": "PENNED",
+    "word_length": 6,
+    "steps": 4
+  },
+  {
+    "gotten_word": "SPARKS",
+    "target_word": "SHAKEN",
+    "word_length": 6,
+    "steps": 4
+  },
+  {
+    "gotten_word": "STARED",
+    "target_word": "STATUE",
+    "word_length": 6,
+    "steps": 4
+  },
+  {
+    "gotten_word": "STORES",
+    "target_word": "SHAPED",
+    "word_length": 6,
+    "steps": 4
+  },
+  {
+    "gotten_word": "STORES",
+    "target_word": "SHAVED",
+    "word_length": 6,
+    "steps": 4
+  },
+  {
+    "gotten_word": "TINTED",
+    "target_word": "POLLED",
+    "word_length": 6,
+    "steps": 4
+  },
+  {
+    "gotten_word": "WAGING",
+    "target_word": "PAYING",
+    "word_length": 6,
+    "steps": 4
+  },
+  {
+    "gotten_word": "WAILED",
+    "target_word": "BALLOT",
+    "word_length": 6,
+    "steps": 4
+  },
+  {
+    "gotten_word": "WALKED",
+    "target_word": "SMILED",
+    "word_length": 6,
+    "steps": 4
+  },
+  {
+    "gotten_word": "BOOMED",
+    "target_word": "BACKED",
+    "word_length": 6,
+    "steps": 5
+  },
+  {
+    "gotten_word": "CALLED",
+    "target_word": "SMILES",
+    "word_length": 6,
+    "steps": 5
+  },
+  {
+    "gotten_word": "CALLED",
+    "target_word": "TINTED",
+    "word_length": 6,
+    "steps": 5
+  },
+  {
+    "gotten_word": "CORDED",
+    "target_word": "DOOMED",
+    "word_length": 6,
+    "steps": 5
+  },
+  {
+    "gotten_word": "FLARED",
+    "target_word": "SCARED",
+    "word_length": 6,
+    "steps": 5
+  },
+  {
+    "gotten_word": "HAILED",
+    "target_word": "VALLEY",
+    "word_length": 6,
+    "steps": 5
+  },
+  {
+    "gotten_word": "LASTED",
+    "target_word": "WALKED",
+    "word_length": 6,
+    "steps": 5
+  },
+  {
+    "gotten_word": "LITTER",
+    "target_word": "FASTEN",
+    "word_length": 6,
+    "steps": 5
+  },
+  {
+    "gotten_word": "LONGED",
+    "target_word": "SINNED",
+    "word_length": 6,
+    "steps": 5
+  },
+  {
+    "gotten_word": "MARKET",
+    "target_word": "WALLED",
+    "word_length": 6,
+    "steps": 5
+  },
+  {
+    "gotten_word": "NEARER",
+    "target_word": "SPARED",
+    "word_length": 6,
+    "steps": 5
+  },
+  {
+    "gotten_word": "PLANTS",
+    "target_word": "TRACKS",
+    "word_length": 6,
+    "steps": 5
+  },
+  {
+    "gotten_word": "ROUTED",
+    "target_word": "CHOKED",
+    "word_length": 6,
+    "steps": 5
+  },
+  {
+    "gotten_word": "SHARED",
+    "target_word": "HEADED",
+    "word_length": 6,
+    "steps": 5
+  },
+  {
+    "gotten_word": "SPACES",
+    "target_word": "SHOVEL",
+    "word_length": 6,
+    "steps": 5
+  },
+  {
+    "gotten_word": "STORED",
+    "target_word": "STATUE",
+    "word_length": 6,
+    "steps": 5
+  },
+  {
+    "gotten_word": "TALKED",
+    "target_word": "WAITER",
+    "word_length": 6,
+    "steps": 5
+  },
+  {
+    "gotten_word": "TALLER",
+    "target_word": "BARRED",
+    "word_length": 6,
+    "steps": 5
+  },
+  {
+    "gotten_word": "TRYING",
+    "target_word": "DURING",
+    "word_length": 6,
+    "steps": 5
+  },
+  {
+    "gotten_word": "TUCKED",
+    "target_word": "MARKET",
+    "word_length": 6,
+    "steps": 5
+  },
+  {
+    "gotten_word": "VOLLEY",
+    "target_word": "WALKED",
+    "word_length": 6,
+    "steps": 5
+  },
+  {
+    "gotten_word": "WALLET",
+    "target_word": "PULLEY",
+    "word_length": 6,
+    "steps": 5
+  },
+  {
+    "gotten_word": "WICKED",
+    "target_word": "ROOTED",
+    "word_length": 6,
+    "steps": 5
+  },
+  {
+    "gotten_word": "WICKET",
+    "target_word": "HOOKED",
+    "word_length": 6,
+    "steps": 5
+  },
+  {
+    "gotten_word": "WRITER",
+    "target_word": "TESTED",
+    "word_length": 6,
+    "steps": 5
+  },
+  {
+    "gotten_word": "BOILED",
+    "target_word": "KILLED",
+    "word_length": 6,
+    "steps": 6
+  },
+  {
+    "gotten_word": "COOLED",
+    "target_word": "WOODEN",
+    "word_length": 6,
+    "steps": 6
+  },
+  {
+    "gotten_word": "CRACKS",
+    "target_word": "PROVES",
+    "word_length": 6,
+    "steps": 6
+  },
+  {
+    "gotten_word": "CURVED",
+    "target_word": "PITIED",
+    "word_length": 6,
+    "steps": 6
+  },
+  {
+    "gotten_word": "DRIVES",
+    "target_word": "TRACTS",
+    "word_length": 6,
+    "steps": 6
+  },
+  {
+    "gotten_word": "DRONES",
+    "target_word": "PLOWED",
+    "word_length": 6,
+    "steps": 6
+  },
+  {
+    "gotten_word": "EATING",
+    "target_word": "SEEING",
+    "word_length": 6,
+    "steps": 6
+  },
+  {
+    "gotten_word": "FODDER",
+    "target_word": "MENDED",
+    "word_length": 6,
+    "steps": 6
+  },
+  {
+    "gotten_word": "FRAMED",
+    "target_word": "LEANED",
+    "word_length": 6,
+    "steps": 6
+  },
+  {
+    "gotten_word": "LEAPED",
+    "target_word": "SHAVED",
+    "word_length": 6,
+    "steps": 6
+  },
+  {
+    "gotten_word": "LONGER",
+    "target_word": "HINTED",
+    "word_length": 6,
+    "steps": 6
+  },
+  {
+    "gotten_word": "MARKED",
+    "target_word": "LOOMED",
+    "word_length": 6,
+    "steps": 6
+  },
+  {
+    "gotten_word": "MARKET",
+    "target_word": "POCKET",
+    "word_length": 6,
+    "steps": 6
+  },
+  {
+    "gotten_word": "OOZING",
+    "target_word": "WAVING",
+    "word_length": 6,
+    "steps": 6
+  },
+  {
+    "gotten_word": "PENNED",
+    "target_word": "LONGER",
+    "word_length": 6,
+    "steps": 6
+  },
+  {
+    "gotten_word": "PROVES",
+    "target_word": "SLOWER",
+    "word_length": 6,
+    "steps": 6
+  },
+  {
+    "gotten_word": "SAILED",
+    "target_word": "PULLEY",
+    "word_length": 6,
+    "steps": 6
+  },
+  {
+    "gotten_word": "SHAVEN",
+    "target_word": "REAPED",
+    "word_length": 6,
+    "steps": 6
+  },
+  {
+    "gotten_word": "SPRANG",
+    "target_word": "WAGING",
+    "word_length": 6,
+    "steps": 6
+  },
+  {
+    "gotten_word": "STATED",
+    "target_word": "SAILED",
+    "word_length": 6,
+    "steps": 6
+  },
+  {
+    "gotten_word": "TINTED",
+    "target_word": "FAILED",
+    "word_length": 6,
+    "steps": 6
+  },
+  {
+    "gotten_word": "TUCKED",
+    "target_word": "WORKED",
+    "word_length": 6,
+    "steps": 6
+  },
+  {
+    "gotten_word": "WAILED",
+    "target_word": "FISHES",
+    "word_length": 6,
+    "steps": 6
+  },
+  {
+    "gotten_word": "WASTED",
+    "target_word": "LITTER",
+    "word_length": 6,
+    "steps": 6
+  },
+  {
+    "gotten_word": "WORKED",
+    "target_word": "PACKET",
+    "word_length": 6,
+    "steps": 6
+  },
+  {
+    "gotten_word": "BARRED",
+    "target_word": "WANTED",
+    "word_length": 6,
+    "steps": 7
+  },
+  {
+    "gotten_word": "BEAVER",
+    "target_word": "TRAITS",
+    "word_length": 6,
+    "steps": 7
+  },
+  {
+    "gotten_word": "BRAVED",
+    "target_word": "ROARED",
+    "word_length": 6,
+    "steps": 7
+  },
+  {
+    "gotten_word": "CRACKS",
+    "target_word": "PROVED",
+    "word_length": 6,
+    "steps": 7
+  },
+  {
+    "gotten_word": "DOZING",
+    "target_word": "TAXING",
+    "word_length": 6,
+    "steps": 7
+  },
+  {
+    "gotten_word": "DUCKED",
+    "target_word": "HAILED",
+    "word_length": 6,
+    "steps": 7
+  },
+  {
+    "gotten_word": "FLOWER",
+    "target_word": "PROVED",
+    "word_length": 6,
+    "steps": 7
+  },
+  {
+    "gotten_word": "FLOWER",
+    "target_word": "GRADES",
+    "word_length": 6,
+    "steps": 7
+  },
+  {
+    "gotten_word": "HAILED",
+    "target_word": "HOOKER",
+    "word_length": 6,
+    "steps": 7
+  },
+  {
+    "gotten_word": "HEAPED",
+    "target_word": "HINDER",
+    "word_length": 6,
+    "steps": 7
+  },
+  {
+    "gotten_word": "HELPED",
+    "target_word": "RAISED",
+    "word_length": 6,
+    "steps": 7
+  },
+  {
+    "gotten_word": "PICKET",
+    "target_word": "WORDED",
+    "word_length": 6,
+    "steps": 7
+  },
+  {
+    "gotten_word": "READER",
+    "target_word": "STATUS",
+    "word_length": 6,
+    "steps": 7
+  },
+  {
+    "gotten_word": "READER",
+    "target_word": "FLAKES",
+    "word_length": 6,
+    "steps": 7
+  },
+  {
+    "gotten_word": "RESTED",
+    "target_word": "HEAVED",
+    "word_length": 6,
+    "steps": 7
+  },
+  {
+    "gotten_word": "ROUTED",
+    "target_word": "SOCKET",
+    "word_length": 6,
+    "steps": 7
+  },
+  {
+    "gotten_word": "ROUTES",
+    "target_word": "WICKED",
+    "word_length": 6,
+    "steps": 7
+  },
+  {
+    "gotten_word": "SAILED",
+    "target_word": "DISHES",
+    "word_length": 6,
+    "steps": 7
+  },
+  {
+    "gotten_word": "SENSES",
+    "target_word": "SEATED",
+    "word_length": 6,
+    "steps": 7
+  },
+  {
+    "gotten_word": "SINNER",
+    "target_word": "MENDED",
+    "word_length": 6,
+    "steps": 7
+  },
+  {
+    "gotten_word": "TESTED",
+    "target_word": "HINDER",
+    "word_length": 6,
+    "steps": 7
+  },
+  {
+    "gotten_word": "TICKET",
+    "target_word": "TALLER",
+    "word_length": 6,
+    "steps": 7
+  },
+  {
+    "gotten_word": "WALKED",
+    "target_word": "POURED",
+    "word_length": 6,
+    "steps": 7
+  },
+  {
+    "gotten_word": "WASTED",
+    "target_word": "HELPED",
+    "word_length": 6,
+    "steps": 7
+  },
+  {
+    "gotten_word": "YELLED",
+    "target_word": "ROCKED",
+    "word_length": 6,
+    "steps": 7
+  },
+  {
+    "gotten_word": "BEATING",
+    "target_word": "FLARING",
+    "word_length": 7,
+    "steps": 3
+  },
+  {
+    "gotten_word": "CONVERT",
+    "target_word": "CONTEXT",
+    "word_length": 7,
+    "steps": 3
+  },
+  {
+    "gotten_word": "DRAINED",
+    "target_word": "TRAILER",
+    "word_length": 7,
+    "steps": 3
+  },
+  {
+    "gotten_word": "FORMING",
+    "target_word": "WARNING",
+    "word_length": 7,
+    "steps": 3
+  },
+  {
+    "gotten_word": "GAINING",
+    "target_word": "RUNNING",
+    "word_length": 7,
+    "steps": 3
+  },
+  {
+    "gotten_word": "HELPING",
+    "target_word": "TEARING",
+    "word_length": 7,
+    "steps": 3
+  },
+  {
+    "gotten_word": "HITTING",
+    "target_word": "LETTING",
+    "word_length": 7,
+    "steps": 3
+  },
+  {
+    "gotten_word": "LENDING",
+    "target_word": "WEAVING",
+    "word_length": 7,
+    "steps": 3
+  },
+  {
+    "gotten_word": "LINKING",
+    "target_word": "MOCKING",
+    "word_length": 7,
+    "steps": 3
+  },
+  {
+    "gotten_word": "LISTING",
+    "target_word": "WASHING",
+    "word_length": 7,
+    "steps": 3
+  },
+  {
+    "gotten_word": "MATTERS",
+    "target_word": "MYSTERY",
+    "word_length": 7,
+    "steps": 3
+  },
+  {
+    "gotten_word": "MEANING",
+    "target_word": "HEADING",
+    "word_length": 7,
+    "steps": 3
+  },
+  {
+    "gotten_word": "PANTING",
+    "target_word": "WASHING",
+    "word_length": 7,
+    "steps": 3
+  },
+  {
+    "gotten_word": "READING",
+    "target_word": "BENDING",
+    "word_length": 7,
+    "steps": 3
+  },
+  {
+    "gotten_word": "ROARING",
+    "target_word": "BEATING",
+    "word_length": 7,
+    "steps": 3
+  },
+  {
+    "gotten_word": "ROARING",
+    "target_word": "HEADING",
+    "word_length": 7,
+    "steps": 3
+  },
+  {
+    "gotten_word": "SETTING",
+    "target_word": "HEALING",
+    "word_length": 7,
+    "steps": 3
+  },
+  {
+    "gotten_word": "STAYING",
+    "target_word": "BEATING",
+    "word_length": 7,
+    "steps": 3
+  },
+  {
+    "gotten_word": "TELLING",
+    "target_word": "GALLING",
+    "word_length": 7,
+    "steps": 3
+  },
+  {
+    "gotten_word": "TUCKING",
+    "target_word": "BARKING",
+    "word_length": 7,
+    "steps": 3
+  },
+  {
+    "gotten_word": "WAILING",
+    "target_word": "PANTING",
+    "word_length": 7,
+    "steps": 3
+  },
+  {
+    "gotten_word": "WARMING",
+    "target_word": "FORCING",
+    "word_length": 7,
+    "steps": 3
+  },
+  {
+    "gotten_word": "WEARING",
+    "target_word": "LEANING",
+    "word_length": 7,
+    "steps": 3
+  },
+  {
+    "gotten_word": "WINDING",
+    "target_word": "BEDDING",
+    "word_length": 7,
+    "steps": 3
+  },
+  {
+    "gotten_word": "YELLING",
+    "target_word": "SEATING",
+    "word_length": 7,
+    "steps": 3
+  },
+  {
+    "gotten_word": "BARRING",
+    "target_word": "PICKING",
+    "word_length": 7,
+    "steps": 4
+  },
+  {
+    "gotten_word": "BENDING",
+    "target_word": "HANGING",
+    "word_length": 7,
+    "steps": 4
+  },
+  {
+    "gotten_word": "CHAPTER",
+    "target_word": "CHARRED",
+    "word_length": 7,
+    "steps": 4
+  },
+  {
+    "gotten_word": "CLAPPED",
+    "target_word": "CLAUSES",
+    "word_length": 7,
+    "steps": 4
+  },
+  {
+    "gotten_word": "CLAUSES",
+    "target_word": "FLASHED",
+    "word_length": 7,
+    "steps": 4
+  },
+  {
+    "gotten_word": "COSTING",
+    "target_word": "DARLING",
+    "word_length": 7,
+    "steps": 4
+  },
+  {
+    "gotten_word": "FALLING",
+    "target_word": "WRITING",
+    "word_length": 7,
+    "steps": 4
+  },
+  {
+    "gotten_word": "FARMING",
+    "target_word": "BARKING",
+    "word_length": 7,
+    "steps": 4
+  },
+  {
+    "gotten_word": "FORMING",
+    "target_word": "BEAMING",
+    "word_length": 7,
+    "steps": 4
+  },
+  {
+    "gotten_word": "GALLING",
+    "target_word": "WAITING",
+    "word_length": 7,
+    "steps": 4
+  },
+  {
+    "gotten_word": "GLARING",
+    "target_word": "BEATING",
+    "word_length": 7,
+    "steps": 4
+  },
+  {
+    "gotten_word": "GLASSES",
+    "target_word": "FLASHED",
+    "word_length": 7,
+    "steps": 4
+  },
+  {
+    "gotten_word": "LENDING",
+    "target_word": "SEATING",
+    "word_length": 7,
+    "steps": 4
+  },
+  {
+    "gotten_word": "MARKING",
+    "target_word": "TALKING",
+    "word_length": 7,
+    "steps": 4
+  },
+  {
+    "gotten_word": "PARTING",
+    "target_word": "WRITING",
+    "word_length": 7,
+    "steps": 4
+  },
+  {
+    "gotten_word": "SELLING",
+    "target_word": "READING",
+    "word_length": 7,
+    "steps": 4
+  },
+  {
+    "gotten_word": "SETTING",
+    "target_word": "YELLING",
+    "word_length": 7,
+    "steps": 4
+  },
+  {
+    "gotten_word": "SITTING",
+    "target_word": "BEARING",
+    "word_length": 7,
+    "steps": 4
+  },
+  {
+    "gotten_word": "SITTING",
+    "target_word": "BEAMING",
+    "word_length": 7,
+    "steps": 4
+  },
+  {
+    "gotten_word": "SLAPPED",
+    "target_word": "SLASHED",
+    "word_length": 7,
+    "steps": 4
+  },
+  {
+    "gotten_word": "STATING",
+    "target_word": "LEAPING",
+    "word_length": 7,
+    "steps": 4
+  },
+  {
+    "gotten_word": "TEARING",
+    "target_word": "LENDING",
+    "word_length": 7,
+    "steps": 4
+  },
+  {
+    "gotten_word": "TENDING",
+    "target_word": "MEANING",
+    "word_length": 7,
+    "steps": 4
+  },
+  {
+    "gotten_word": "TUCKING",
+    "target_word": "MOCKING",
+    "word_length": 7,
+    "steps": 4
+  },
+  {
+    "gotten_word": "WINKING",
+    "target_word": "PACKING",
+    "word_length": 7,
+    "steps": 4
+  },
+  {
+    "gotten_word": "BLAMING",
+    "target_word": "STARING",
+    "word_length": 7,
+    "steps": 5
+  },
+  {
+    "gotten_word": "BRUSHED",
+    "target_word": "CLAPPED",
+    "word_length": 7,
+    "steps": 5
+  },
+  {
+    "gotten_word": "CHOKING",
+    "target_word": "PULLING",
+    "word_length": 7,
+    "steps": 5
+  },
+  {
+    "gotten_word": "CLAUSES",
+    "target_word": "SLAPPED",
+    "word_length": 7,
+    "steps": 5
+  },
+  {
+    "gotten_word": "DARLING",
+    "target_word": "LISTING",
+    "word_length": 7,
+    "steps": 5
+  },
+  {
+    "gotten_word": "FALLING",
+    "target_word": "HEARING",
+    "word_length": 7,
+    "steps": 5
+  },
+  {
+    "gotten_word": "FEEDING",
+    "target_word": "HELPING",
+    "word_length": 7,
+    "steps": 5
+  },
+  {
+    "gotten_word": "FILLING",
+    "target_word": "GAINING",
+    "word_length": 7,
+    "steps": 5
+  },
+  {
+    "gotten_word": "FINDING",
+    "target_word": "LEAKING",
+    "word_length": 7,
+    "steps": 5
+  },
+  {
+    "gotten_word": "GROWING",
+    "target_word": "SHAVING",
+    "word_length": 7,
+    "steps": 5
+  },
+  {
+    "gotten_word": "HEARING",
+    "target_word": "PITTING",
+    "word_length": 7,
+    "steps": 5
+  },
+  {
+    "gotten_word": "HEAVING",
+    "target_word": "TILLING",
+    "word_length": 7,
+    "steps": 5
+  },
+  {
+    "gotten_word": "HITTING",
+    "target_word": "CURLING",
+    "word_length": 7,
+    "steps": 5
+  },
+  {
+    "gotten_word": "KILLING",
+    "target_word": "TOILING",
+    "word_length": 7,
+    "steps": 5
+  },
+  {
+    "gotten_word": "LETTING",
+    "target_word": "CASTING",
+    "word_length": 7,
+    "steps": 5
+  },
+  {
+    "gotten_word": "MOANING",
+    "target_word": "LANDING",
+    "word_length": 7,
+    "steps": 5
+  },
+  {
+    "gotten_word": "NURSING",
+    "target_word": "CASTING",
+    "word_length": 7,
+    "steps": 5
+  },
+  {
+    "gotten_word": "PATTING",
+    "target_word": "DASHING",
+    "word_length": 7,
+    "steps": 5
+  },
+  {
+    "gotten_word": "PEEPING",
+    "target_word": "FAILING",
+    "word_length": 7,
+    "steps": 5
+  },
+  {
+    "gotten_word": "SWAYING",
+    "target_word": "LETTING",
+    "word_length": 7,
+    "steps": 5
+  },
+  {
+    "gotten_word": "TELLING",
+    "target_word": "SMILING",
+    "word_length": 7,
+    "steps": 5
+  },
+  {
+    "gotten_word": "TUCKING",
+    "target_word": "CARTING",
+    "word_length": 7,
+    "steps": 5
+  },
+  {
+    "gotten_word": "WAILING",
+    "target_word": "PUTTING",
+    "word_length": 7,
+    "steps": 5
+  },
+  {
+    "gotten_word": "WEAVING",
+    "target_word": "GETTING",
+    "word_length": 7,
+    "steps": 5
+  },
+  {
+    "gotten_word": "WILLING",
+    "target_word": "HEAVING",
+    "word_length": 7,
+    "steps": 5
+  },
+  {
+    "gotten_word": "BLAZING",
+    "target_word": "LEAVING",
+    "word_length": 7,
+    "steps": 6
+  },
+  {
+    "gotten_word": "BLAZING",
+    "target_word": "HELPING",
+    "word_length": 7,
+    "steps": 6
+  },
+  {
+    "gotten_word": "COOLING",
+    "target_word": "WASTING",
+    "word_length": 7,
+    "steps": 6
+  },
+  {
+    "gotten_word": "CURLING",
+    "target_word": "MARKING",
+    "word_length": 7,
+    "steps": 6
+  },
+  {
+    "gotten_word": "CURLING",
+    "target_word": "SITTING",
+    "word_length": 7,
+    "steps": 6
+  },
+  {
+    "gotten_word": "CUTTING",
+    "target_word": "PICKING",
+    "word_length": 7,
+    "steps": 6
+  },
+  {
+    "gotten_word": "FINDING",
+    "target_word": "HEAVING",
+    "word_length": 7,
+    "steps": 6
+  },
+  {
+    "gotten_word": "GLOWING",
+    "target_word": "STARING",
+    "word_length": 7,
+    "steps": 6
+  },
+  {
+    "gotten_word": "HEARING",
+    "target_word": "WINDING",
+    "word_length": 7,
+    "steps": 6
+  },
+  {
+    "gotten_word": "LEAKING",
+    "target_word": "GLARING",
+    "word_length": 7,
+    "steps": 6
+  },
+  {
+    "gotten_word": "NURSING",
+    "target_word": "PANTING",
+    "word_length": 7,
+    "steps": 6
+  },
+  {
+    "gotten_word": "PUTTING",
+    "target_word": "CURSING",
+    "word_length": 7,
+    "steps": 6
+  },
+  {
+    "gotten_word": "PUTTING",
+    "target_word": "READING",
+    "word_length": 7,
+    "steps": 6
+  },
+  {
+    "gotten_word": "RAILING",
+    "target_word": "LOOKING",
+    "word_length": 7,
+    "steps": 6
+  },
+  {
+    "gotten_word": "ROCKING",
+    "target_word": "BINDING",
+    "word_length": 7,
+    "steps": 6
+  },
+  {
+    "gotten_word": "SCATTER",
+    "target_word": "CHARGED",
+    "word_length": 7,
+    "steps": 6
+  },
+  {
+    "gotten_word": "SEATING",
+    "target_word": "BEDDING",
+    "word_length": 7,
+    "steps": 6
+  },
+  {
+    "gotten_word": "SELLING",
+    "target_word": "BLAZING",
+    "word_length": 7,
+    "steps": 6
+  },
+  {
+    "gotten_word": "SHADING",
+    "target_word": "HEADING",
+    "word_length": 7,
+    "steps": 6
+  },
+  {
+    "gotten_word": "SHAPING",
+    "target_word": "LEAPING",
+    "word_length": 7,
+    "steps": 6
+  },
+  {
+    "gotten_word": "SHOVING",
+    "target_word": "WEARING",
+    "word_length": 7,
+    "steps": 6
+  },
+  {
+    "gotten_word": "SWAYING",
+    "target_word": "PUTTING",
+    "word_length": 7,
+    "steps": 6
+  },
+  {
+    "gotten_word": "TELLING",
+    "target_word": "LEANING",
+    "word_length": 7,
+    "steps": 6
+  },
+  {
+    "gotten_word": "WAILING",
+    "target_word": "PEERING",
+    "word_length": 7,
+    "steps": 6
+  },
+  {
+    "gotten_word": "WEDDING",
+    "target_word": "HEARING",
+    "word_length": 7,
+    "steps": 6
+  }
+]

@@ -28,3 +28,4 @@ test.db
 # OS Junk
 .DS_Store
 Thumbs.db
+/test/word_ladder_test.db

@@ -15,5 +15,9 @@ class PuzzleRepository(ABC):
         pass
 
     @abstractmethod
+    def get_available_word_lengths(self) -> list[int]:
+        ...
+
+    @abstractmethod
     def length(self) -> int:
         ...

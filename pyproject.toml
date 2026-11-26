@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "fastapi[standard]>=0.165.0",
+    "http-status>=1.0.0",
     "pydantic>=2.14.4",
     "pydantic-settings>=2.16.3",
     "pymysql>=1.2.4",
